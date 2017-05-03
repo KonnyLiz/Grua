@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/parcial2.dir/main.cpp.o  -o parcial2 -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
